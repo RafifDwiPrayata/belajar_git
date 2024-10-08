@@ -1,12 +1,10 @@
 # Belajar Git Dasar
 
     berisi perintah perintah perintah
-     belajar 'git dasar'.
+     belajar git dasar'.
 
 
 ### cara commit ke repo
-1. memindahkan dari working ke stage
-     - first item
-     - second item
-     - third item
-     - fourth item
+- memindahkan dari working ke stage
+```git add.```
+- dari stage ke repo ``` git commit -m "Pesan yang mau ditulis" ```
